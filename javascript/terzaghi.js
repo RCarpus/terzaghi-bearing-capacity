@@ -492,7 +492,6 @@ class BearingCapacityApp extends React.Component {
     render() {
         return (
             <div>
-                <h1>Terzaghi Bearing Capacity Calculator</h1>
                 <p id="info">For more information on bearing capacity calculation, take a look at <a href="https://en.wikipedia.org/wiki/Bearing_capacity#Terzaghi's_Bearing_Capacity_Theory" target="_blank">the wikipedia page for Bearing Capacity</a>.</p>
                 <form>
                 {/*Radio buttons for foundation type selection */}
